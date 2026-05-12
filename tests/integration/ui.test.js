@@ -31,5 +31,5 @@ describe("계산기 UI 통합", () => {
  document.getElementById("inputB").value ="8";
  document.querySelector('[data-testid="btn-subtract"]').click();
  expect(document.querySelector('[data-testid="display"]').textContent).toBe("2");
-});
+ });
 });
