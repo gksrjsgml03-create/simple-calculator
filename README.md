@@ -1,4 +1,4 @@
-# simple-calculator (시작점)
+# simple-calculator (시작점임)
 
 이 폴더는 **거의 비어 있습니다**. 핸드아웃을 따라가면서 한 단계씩 채워가게 됩니다.
 
